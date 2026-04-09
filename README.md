@@ -1,1 +1,1 @@
-# WildVision---Real-time-Animals-Monitoring-System
+# WildVision - Real-time Animals Monitoring System
